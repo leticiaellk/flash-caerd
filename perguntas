@@ -1,0 +1,26 @@
+criaCartao(
+    'Biologia',
+    'O que é sistema nervoso?',
+    ' é o sistema responsável por captar, processar e gerar respostas diante dos estímulos aos quais somos submetidos.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é globalização?',
+    'é um processo de integração política, econômica e cultural mundial, marcado pelos avanços nos meios de transporte e comunicação.'
+)
+
+criaCartao(
+    'Matemática',
+    'O que é função matemática?',
+    'Uma função é uma relação matemática estabelecida entre duas variáveis. '
+)
+
+
+
+
+criaCartao(
+    'Biologia',
+    'Como é feita a fotossíntese?',
+    'A fotossíntese é um processo realizado por organismos autotróficos fotossintetizantes, como plantas, algas e alguns procariontes. Eles captam a luz solar, transformam em energia química e produzem os compostos orgânicos (carboidratos ou açúcares) a partir de água e dióxido de carbono.'
+)
